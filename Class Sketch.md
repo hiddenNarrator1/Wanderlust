@@ -1,0 +1,1 @@
+Health/Guard: d6 + modifier. Half is Guard (which allows you to add AGI) and the other is Health (which adds END).
