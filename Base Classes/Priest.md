@@ -1,5 +1,5 @@
 ### Stats
-**Health**: d6 per level (Starting 6)
+**Health**: d6 (Starting 6)
 **Stamina**: 2 + half level
 **Mana**: 1 + Level
 **Attribute Bonuses**: +1 RES, +1 PER
