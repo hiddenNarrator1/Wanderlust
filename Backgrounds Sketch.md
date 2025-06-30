@@ -11,3 +11,77 @@ Features should refrain from being usable a limited number of times per rest. Pa
 - A Kitchen For All: You have advantage on Chef skill checks for learning new culinary cultures. This includes any favorites, ritualistic practices, taboos, and what's poisonous for a species.
 - Choose 3 Skills (1,1,2): Exert, Persuade, Notice, Connect, Survive
 - Given Skills: Art (Chef) Rank 2
+
+### Crypto Miner
+Die
+### Athlete
+
+### Hunter
+
+### Mechanic
+
+### I.T.
+
+### Driver
+
+### Cultist
+
+### Entertainer
+
+### Entrepreneur
+
+### Wage Slave
+
+### Slave Slave
+
+### Thug
+
+### Landlord/Rentoid
+
+### Farmer
+
+### Destitute
+
+### Escort
+
+### Furry
+
+### Physician 
+
+### Cosmologist 
+
+### Student
+
+### Soldier/Veteran
+
+### Explorer
+
+### Diplomat
++1 awesome
+### Scientist
+
+### Leech
+
+### ![[proxy-image.jpg|240]]
+
+
+### Botanist
+
+### Horse Enthusiast
++1 Glue
+### Cowboy
+### Vagabond
+
+### ![[proxy-image 1.jpg|240]]
+### Officer
+### Fireman
+### Manager
+### Mechanical Purist
+### Accursed
+### Oracle
+### Detective
+### Criminal
+### Vigilante
+### Arcanic Purist
+### Acolyte
+### Grifter

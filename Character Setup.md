@@ -1,6 +1,4 @@
 1. Ancestry
-	1. Culture
-	2. Species
 2. Background
 	1. Chosen Skills/Occupation
 	2. Invocations
