@@ -11,7 +11,6 @@
 - Persuade
 - Trade
 - Fix
-- Pilot
 - Survive
 - Perform
 - Program
