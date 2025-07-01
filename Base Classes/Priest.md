@@ -18,4 +18,4 @@
 - Hidden in Shadow (Mana): Touch a target to turn them ethereal. Gain the ability to teleport within shadows up to 30 ft as a 2s Action, and add 1 to AC. Restores after a scene.
 - Destructive Blast (Mana): Roll to-hit with your highest combat skill to blast someone with radiant energy at a range of 90 ft. The blast does a d6 damage per half player level, rounded up. The damage type is chosen between the DM and Priest.
 - Blessing's Boon (Mana): Give a target you touch a bonus to an attribute equal to your Cast Magic stat.
-**(Level 5) Higher Being's Blessing**: An attribute of your choosing has its maximum and current score increased by 2.
+**(Level 5) Higher Being's Blessing**: An attribute of your choosing has its maximum and current score increased by 2. Saving throws 
