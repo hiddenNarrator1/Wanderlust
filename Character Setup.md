@@ -14,3 +14,5 @@ Tiers follow this formula.
 
 There are 3 tiers: Base, Expert, Master. After Master, you can choose a Legendary Capstone.
 Moving between tiers requires an arc to be completed.
+
+### Important Statistice

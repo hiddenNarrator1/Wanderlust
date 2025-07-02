@@ -6,6 +6,6 @@
 **Skill Bonuses**:
 
 ### Abilities
-**Level 1**
-**Level 3**
-**Level 5**
+**(Level 1)**
+**(Level 3)**
+**(Level 5)**
