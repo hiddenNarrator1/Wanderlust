@@ -15,4 +15,21 @@ Tiers follow this formula.
 There are 3 tiers: Base, Expert, Master. After Master, you can choose a Legendary Capstone.
 Moving between tiers requires an arc to be completed.
 
-### Important Statistice
+### Important Statistics
+1. The 6 Attributes 
+	1. STRENGTH
+	2. AGILITY
+	3. ENDURANCE
+	4. INTELLECT
+	5. PERCEPTION
+	6. RESOLVE
+2. Saving Throws (DC 10 + Cast Magic, Roll d20 + highest Attr)
+	1. Mental (INT, RES)
+	2. Physical (STR, END)
+	3. Reflexive (AGI, PER)
+3. Grit, Guard, Stamina, Mana
+4. AC, DR, DV
+5. Skill Ranks (Up to 5)
+6. Level (Added as a bonus to everything)
+7. Background
+8. Purpose

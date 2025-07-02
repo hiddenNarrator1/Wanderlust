@@ -25,6 +25,8 @@ Die
 - Given Skills: Sneak Rank 2, Survive Rank 2, Notice 1
 
 ### Mechanic
+- Tight, Efficient Work: Standard costs for repairs or parts are halved.
+- 
 
 ### I.T.
 
