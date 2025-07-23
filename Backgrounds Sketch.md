@@ -11,7 +11,7 @@ Features should refrain from being usable a limited number of times per rest. Pa
 - Choose 3 Skills (1,1,2): Exert, Persuade, Notice, Connect, Survive
 - Given Skills: Art (Chef) Rank 2
 
-### Crypto Miner
+### Crypto Miner (ALL -1)
 Die
 ### Athlete (STR +1, AGI +1, END +1)
 - Honed Body: Regain an amount of Guard equal to your tier every round.
@@ -24,19 +24,24 @@ Die
 - Choose 3 Skills (1,1,2): Vehicle (Any), Exert, Trade, Connect, History, Agriculture, Earth Sciences
 - Given Skills: Sneak Rank 2, Survive Rank 2, Notice 1
 
-### Mechanic
+### Mechanic (END +1, PER +2)
 - Tight, Efficient Work: Standard costs for repairs or parts are halved.
 - Little Touch Up: Once per scene, you may repair a mundane item. The time for repair is dependent on the item itself and the item must be simple enough to repair without a toolkit.
 - Choose 3 Skills (1,1,2): Exert, Persuade, Trade, Notice, Program, Connect, one of the Sciences
-- Given Skills: Engineering 2, Fix 2
+- Given Skills: Engineering 2, Fix 2, one Vehicle 1
 
-### I.T.
+### I.T. (INT +2, PER +1)
 - Seen This Before: You can instantly diagnose any basic problem with technology.
-- 
+- Working by Moonlight: You can go one day without sleep before having to make a saving throw.
+- Choose 3 Skills (1,1,2): Fix, Trade, Persuade, Deduce, Notice
+- Given Skills: Program 2
 
-### Driver
-
-### Cultist
+### Driver (AGI +1, PER +2)
+- Beating the Clock: You have an advanced understanding of navigation. Travelling along roads is done at an additional 2 hexes(?) per day.
+- Multitasker: You may take one Drive action without using seconds on your turn.
+- Choose 2 Skills (1,1): Connect, Notice, Trade, Persuade
+- Given Skills: One Vehicle 2, Fix 1
+### Cultist (INT +1, RES +2)
 - Quid Pro Quo: Rolling a critical hit or success can instead become a regular success, and the critical hit will be stored for later. You can store 1 between rests and expires at the end of the day.
 - Esoteric Knowledge: You have a +1 bonus towards gaining knowledge about unknown or hidden information.
 - Choose 3 Skills (1,1,1): Connect, Deduce, Persuade, Survive, Perform
@@ -55,6 +60,11 @@ Die
 ### Landlord/Rentoid
 
 ### Farmer
+ - Working by Moonlight: You can go one day without sleep before having to make a saving throw.
+ - Oxen Strength: Your carrying bulk is increased by 5.
+ - Choose 2 Skills (1,1): Exert, Persuade, Trade, Administration, Connect
+ - Given Skills: Agriculture 2, Earth Sciences 1, Fix 1, Survive 1, Connect 1
+ 
 
 ### Destitute
 

@@ -3,7 +3,7 @@
 **Stamina**: 2 + half level
 **Mana**: 1 + Level
 **Attribute Bonuses**: +1 RES, +1 PER
-**Skill Bonuses**:  Religion 1, Cast Magic 1, Talk 1
+**Skill Bonuses**:  Religion 1, Cast Magic 2, Talk 1, Divine 2
 
 ### Abilities
 **(Level 1, 3, 5) Miracles**: Your chosen patron gifts you with miracles. Some are passive and others will cost 1 MP to use. Mana is also restored as stated. Start with 2 and add 1 at each stated level.
