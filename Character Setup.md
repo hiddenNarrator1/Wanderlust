@@ -33,3 +33,10 @@ Moving between tiers requires an arc to be completed.
 6. Level (Added as a bonus to everything)
 7. Background
 8. Purpose
+
+
+## Step-by-Step Process
+1. Choose your ancestry and note its traits.
+2. Select a background, write down its features, choose the skills, and add to your attributes.
+3. Freely boost up to three separate attributes.
+4. Choose a class, note its features and skills, and add to your attributes.

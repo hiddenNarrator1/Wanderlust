@@ -26,9 +26,13 @@ Die
 
 ### Mechanic
 - Tight, Efficient Work: Standard costs for repairs or parts are halved.
-- 
+- Little Touch Up: Once per scene, you may repair a mundane item. The time for repair is dependent on the item itself and the item must be simple enough to repair without a toolkit.
+- Choose 3 Skills (1,1,2): Exert, Persuade, Trade, Notice, Program, Connect, one of the Sciences
+- Given Skills: Engineering 2, Fix 2
 
 ### I.T.
+- Seen This Before: You can instantly diagnose any basic problem with technology.
+- 
 
 ### Driver
 
