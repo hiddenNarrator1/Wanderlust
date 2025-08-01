@@ -1,4 +1,4 @@
-### Stats
+5### Stats
 **Health**: d6 - 1 (Starting 5)
 **Stamina**: 2 + Half Level
 **Mana**: 1 + Level + INT + RES
