@@ -1,0 +1,3 @@
+- Weapon Skills - Combat skills Language
+- Language Consistencies 
+- Grit + Guard
