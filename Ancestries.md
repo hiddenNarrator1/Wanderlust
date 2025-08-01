@@ -18,3 +18,16 @@ These folk resemble sea turtles, with distinct patterns on their shells. Many fa
 (+) You have a swim speed of 25 ft.
 (-) Your movement speed is 20 ft.
 (-) Items inflict 1 additional point of system strain, should they inflict it in the first place.
+
+### Rock Person/Dwarf
+(+/-) You are dense. Checks to grapple, shove, or knock you over have a -4 penalty. Being shoved only moves you half, rounded up. However, you sink immediately in most liquids and some areas cannot support your weight.
+(+) If you die, you transform into a random rare metal. If you make contact with said rare metal, you may revive once. Any damage sustained while petrified carries over to your normal form.
+(+) You have blindsense up to 15 ft.
+(-) DV 3 against bludgeoning damage.
+
+### Alien Elf
+(+) You are able to readily graft other body parts from elves onto yourself as a replacement. This process takes a long rest.
+(+) Your species is inherently enchanted. You have a +2 bonus towards saving throws related to magic. In addition, you learn one Power 1 spell.
+(+) You are able to walk on walls and on water.
+(-) Getting hit with a critical hit stuns you for a round.
+(-) Bleed conditions last an additional 2 rounds.

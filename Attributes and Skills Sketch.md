@@ -6,17 +6,17 @@
 **Perception**: Controls a character's hand-eye coordination and ability to perceive the world around them using their senses.
 **Resolve**: A character's willpower, their general force of personality. Often used for controlling one's natural magic or resisting mental control. It also controls the character's general charisma, their social impressions.
 ### General
-- Exert
-- Sneak
-- Persuade
-- Trade
-- Fix
-- Survive
-- Perform
-- Program
 - Connect
 - Deduce
+- Exert
+- Fix
 - Notice
+- Perform
+- Persuade
+- Program
+- Sneak
+- Survive
+- Trade
 ### Special (Invoked by Background and Culture)
 - Administration
 - Sciences

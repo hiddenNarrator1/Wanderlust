@@ -1,8 +1,8 @@
-1. Ancestry
-2. Background
+Name1. Ancestry
+1. Background
 	1. Chosen Skills/Occupation
 	2. Invocations
-3. Base Class
+2. Base Class
 
 ### Leveling up
 Tiers follow this formula.
