@@ -17,5 +17,5 @@
 - **Protective Embrace**: The Priest always has an AC of 13.
 - **Revenant Warrior**: When the Priest drops to 0 HP, they do not go unconscious, though they are actively dying. During this time, they can only use their actions to fight.
 - **Tireless Agent**: You never need to sleep, eat, or drink. Ever. Extreme weather has no effect on you.
-- **To Teach the Flock (Mana)**: Give a target that can be touched a +1 bonus to a skill the Priest is skilled in. Restores after a scene.
+- **To Teach the Flock (Mana)**: Give a target that can be touched a +1 bonus to a skill the Priest is skilled in. Restores after a scene.  
 **(Level 5) Sanctuary Ritual**: After an hour of preparation, you may bless an area up to 30 ft. in diameter to give all allies the benefits of 2 of your chosen miracles.
