@@ -1,6 +1,6 @@
 ### Stats
-**Health**: d6 - 1 (Starting 5)
-**Stamina**: 2 + Half Level
+**Health**: d6 - 1 (Starting 5)  
+**Stamina**: 2 + Half Level  
 **Mana**: 1 + Level + INT + RES
 **Attribute Bonuses**: +1 to INT or RES, +1 PER
 **Skill Bonuses**: Cast Magic 2, Arcane 2, Any Magic 1, Deduce 1
