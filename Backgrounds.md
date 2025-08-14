@@ -6,7 +6,7 @@ Features should refrain from being usable a limited number of times per rest. Pa
 - Given Skills (Max 2): Skill 1, Skill 2
 ****
 ### Chef (AGI +2, PER +1)
-- Meal Prep: After collecting basic ingredients, you can create a meal for your party. Consuming the meal gives temporary HP equal to your level for the next hour.
+- Meal Prep: After collecting basic ingredients, you can create a meal for your party. Consuming the meal gives temporary HP equal to your level + 3 for the next hour.
 - A Kitchen For All: You have advantage on Chef skill checks for learning new culinary cultures. This includes any favorites, ritualistic practices, taboos, and what's poisonous for a species.
 - Choose 3 Skills (1,1,2): Exert, Persuade, Notice, Connect, Survive
 - Given Skills: Art (Chef) Rank 2
@@ -20,13 +20,17 @@ Die
 - Given Skills: Exert Rank 2, Any Combat 1
 ### Hunter (AGI +1, PER +2)
 - Self-Sustaining: Given an hour in an area of nature, you can acquire a meal for a number of people equal to your level. Additionally, you know basic information on what plants are naturally poisonous in the area.
-- Keen Senses: You roll with advantage when tracking down foes.
+- Keen Senses: You roll with a +2 bonus when tracking down foes.
 - Choose 3 Skills (1,1,2): Vehicle (Any), Exert, Trade, Connect, History, Agriculture, Earth Sciences
 - Given Skills: Sneak Rank 2, Survive Rank 2, Notice 1
 
 ### Mechanic (END +1, PER +2)
 - Tight, Efficient Work: Standard costs for repairs or parts are halved.
-- Little Touch Up: Once per scene, you may repair a mundane item. The time for repair is dependent on the item itself and the item must be simple enough to repair without a toolkit.
+- Little Touch Up: Choose an item to modify with one of the following bonuses. This can be applied over the course of a scene.
+	- Its range increases by 5 ft.
+	- Its duration increases by 3 rounds.
+	- Its to-hit and damage increase by your tier.
+	- Its capacity increases by your tier.
 - Choose 3 Skills (1,1,2): Exert, Persuade, Trade, Notice, Program, Connect, one of the Sciences
 - Given Skills: Engineering 2, Fix 2, one Vehicle 1
 
