@@ -20,7 +20,7 @@ Die
 - Given Skills: Exert Rank 2, Any Combat 1
 ### Hunter (AGI +1, PER +2)
 - Self-Sustaining: Given an hour in an area of nature, you can acquire a meal for a number of people equal to your level. Additionally, you know basic information on what plants are naturally poisonous in the area.
-- Keen Senses: You roll with a +2 bonus when tracking down foes.
+- Keen Senses: You roll with a +2 bonus when tracking down foes. Assassinations need no skill check.
 - Choose 3 Skills (1,1,2): Vehicle (Any), Exert, Trade, Connect, History, Agriculture, Earth Sciences
 - Given Skills: Sneak Rank 2, Survive Rank 2, Notice 1
 
