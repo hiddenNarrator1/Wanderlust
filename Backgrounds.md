@@ -14,7 +14,7 @@ Features should refrain from being usable a limited number of times per rest. Pa
 ### Crypto Miner (ALL -1)
 Die
 ### Athlete (STR +1, AGI +1, END +1)
-- Honed Body: Regain an amount of Guard equal to your tier every round.
+- Improved Endurance: Gain an additional amount of HP equal to your level.
 - Alternate Movement: Your swim and climb speed are equal to your walking speed.
 - Choose Skills (1,1): Survive, Sneak, Medicine, Notice
 - Given Skills: Exert Rank 2, Any Combat 1
@@ -35,7 +35,7 @@ Die
 - Given Skills: Engineering 2, Fix 2, one Vehicle 1
 
 ### I.T. (INT +2, PER +1)
-- Seen This Before: You can instantly diagnose any basic problem with technology.
+- Seen This Before: Successful hacks and investigations using digital media give an additional point of information.
 - Working by Moonlight: You can go one day without sleep before having to make a saving throw.
 - Choose 3 Skills (1,1,2): Fix, Trade, Persuade, Deduce, Notice
 - Given Skills: Program 2
