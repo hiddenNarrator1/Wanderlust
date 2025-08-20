@@ -15,7 +15,8 @@
 - **Holy Words (Mana)**: A number of creatures equal to the Priest's Cast Magic rank must make a Mental save against being charmed, enraged, or frightened. This choice is made between the Priest and DM, depending on the Priest's patron.
 - **Mind's Eye**: The Priest can passively read surface thoughts of creatures that they can see.
 - **Protective Embrace**: The Priest always has an AC of 13.
-- **Revenant Warrior**: When the Priest drops to 0 HP, they do not go unconscious, though they are actively dying. During this time, they can only use their actions to fight.
+- **Revenant Warrior (Mana)**: When the Priest drops to 0 HP, they do not go unconscious, though they are actively dying. During this time, they can only use their actions to fight. Restored after  rest.
+- **Sacred Relic (Mana)**: A relic is made that, when crushed, gives the recipient 2 AC for 1 round and notifies the priest. Restores after the relic is crushed.
 - **Tireless Agent**: You never need to sleep, eat, or drink. Ever. Extreme weather has no effect on you.
 - **To Teach the Flock (Mana)**: Give a target that can be touched a +1 bonus to a skill the Priest is skilled in. Restores after a scene.  
 **(Level 5) Sanctuary Ritual**: After an hour of preparation, you may bless an area up to 30 ft. in diameter to give all allies the benefits of 2 of your chosen miracles.
