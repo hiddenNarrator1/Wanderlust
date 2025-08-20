@@ -1,7 +1,7 @@
 ### Stats
 **Health**: d6 (Starting 6)  
 **Stamina**: 2 + half level  
-**Mana**: 1 + Level  
+**Focus**: 1 + Level  
 **Attribute Bonuses**: +1 RES, +1 PER  
 **Skill Bonuses**:  Religion 1, Cast Magic 2, Talk 1, Divine 2  
  
