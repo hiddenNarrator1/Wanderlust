@@ -6,7 +6,7 @@
 **Skill Bonuses**: Fix 1, Deduce 1, Notice 1, Rank 2 in 2 non-combat skills of your choice  
 
 ### Abilities
-**Savant (Level 1, 3, 5)**: Choose a non-combat skill that you have a rank in. Any roll you make with this skill is done with advantage.  
-**Clockwork Routine (Level 3)**: When you take a scene to perform a skill that you have ranks in, it has a passive score of 13, rather than 10.  
-**Jack of All Trades (Level 5)**: You may use your highest attribute on any non-combat skill check.  
+**Savant (Level 1)**: Once per scene, you may reroll a failed skill check.  
+**Clockwork Routine (Level 3)**: Take a number of skills equal to your INT (min 1). You have advantage in all of those skills.  
+**Jack of All Trades (Level 5)**: You may add your tier to all skill checks.  
 
