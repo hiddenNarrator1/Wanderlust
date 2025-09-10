@@ -1,13 +1,12 @@
 ### Stats
 **Health**: d6 + 2 (Starting 8)  
-**Stamina**: 3 + 2 * Level  
 **Mana**: 0  
 **Attribute Bonuses**: +1 STR or AGI, +1 END  
 **Skill Bonuses**: Choose 2 Weapon Skills for Rank 1, Exert 1  
 
 ### Abilities
-**(Level 1) Stand Your Ground**: Once per scene, you may add your level + END to your Guard instantly.  
-**(Level 1, 3, 5) Battle Feats**: Choose a battle feat from the list below.  
+**(Level 1) Stand Your Ground**: Attacks, missed or hit, give momentum tokens.
+**(Level 3, 5) Battle Feats**: Choose a battle feat from the list below.  
 **(Level 5) Making it Count**: Once per scene, you may force any attack within your weapon range to hit or miss, including your own.  
 
 ### Battle Feats
