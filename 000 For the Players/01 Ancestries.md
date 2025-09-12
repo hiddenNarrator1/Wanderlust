@@ -13,10 +13,10 @@ Humanoids with a scorpion for their bottom half. Their culture focuses on mutual
 (-) Nisrab do not heal as quickly as others without medicine. Long rests heal half the normal amount of HP (minimum 1).  
 ### Laumei
 These folk resemble sea turtles, with distinct patterns on their shells. Many family clans pride themselves on these patterns. Some even believe that they give the Laumei special strengths.
-(+) Your natural AC is 14.  
+(+) Your natural Armor is 4.
 (+) You are immune to acid damage.  
-(+) You have a swim speed of 25 ft.  
-(-) Your movement speed is 20 ft.  
+(+) You have a swim speed of 10 ft.  
+(-) Your movement speed is 10 ft.  
 (-) Items inflict 1 additional point of system strain, should they inflict it in the first place.
 
 ### Rock Person/Dwarf
