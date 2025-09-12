@@ -8,5 +8,5 @@
 ### Abilities
 **Savant (Level 1)**: Once per scene, you may reroll a failed skill check.  
 **Clockwork Routine (Level 3)**: Take a number of skills equal to your INT (min 1). You have advantage in all of those skills. As your INT increases, so does the number of skills.
-**Jack of All Trades (Level 5)**: All skills use your highest attribute. 
+**Jack of All Trades (Level 5)**: All skills are treated as if you have one rank in them.
 

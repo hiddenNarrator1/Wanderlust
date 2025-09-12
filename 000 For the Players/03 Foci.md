@@ -35,4 +35,9 @@ they can do for you.
 **Level 2**: Using basic medical supplies, you may heal Grit equal to a number of d6 equal to your tier + Heal once per day. All healing items you use also heal twice as much Grit.
 
 ### Deadeye
-**Level 1**: Increase Ranged. Increase 
+**Level 1**: Increase Ranged. Ignore 1 armor with ranged weapons. You may use two-handed ranged weapons in melee range at a -4 penalty and one-handed ones with no penalty.
+**Level 2**: Reloading takes no time. A 1 no longer counts as a miss.
+
+### Impervious
+**Level 1**: You have a natural Armor of 2 + half level, rounded down.
+**Level 2**: Once per day, you may reduce one instance of damage from a source, so long as it cannot kill you.
