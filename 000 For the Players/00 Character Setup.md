@@ -33,3 +33,10 @@
 Skills can be increased, a number equal to 1 + Tier on specific levels.
 Increase Attr from Capstone and new tiers.
 
+### Level Bonus
+Half your level rounded down is added to...
+- Attacks
+- Skills
+- Armor
+- Saves
+- Grit and Guard
