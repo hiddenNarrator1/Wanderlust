@@ -2,11 +2,11 @@
 
 | STR | 1   | HP    | 25     | WALK | 10  |
 | --- | --- | ----- | ------ | ---- | --- |
-| DEX | 2   | Armor | 2      | FLY  | 0   |
+| AGI | 2   | Armor | 2      | FLY  | 0   |
 | END | 0   | Skill | 1-2    | SWIM | 20  |
 | INT | -3  | MOR   | 9      | PHYS | 2   |
-| WIS | 0   | HD    | 3      | EVAS | 3   |
-| CHA | -3  | DR/DV | Fire 1 | MENT | 1   |
+| PER | 0   | HD    | 3      | EVAS | 3   |
+| RES | -3  | DR/DV | Fire 1 | MENT | 1   |
 
 ### Offense
 
