@@ -3,6 +3,7 @@
 **Mana**: 10 + INT + RES
 **Attribute Bonuses**: +1 to INT or RES, +1 PER  
 **Skill Bonuses**: Cast Magic 2, Arcane 2, Any Magic 1, Deduce 1  
+**Saving Throws**: Add 1 every level to Mental saves.
 
 ### Abilities
 **(Level 1) Caster of Magicks**: You have a Power of 1, gaining 3 Power 0 Spells and 5 Power 1 spells. As you go along your journey, you can learn additional spells from sources identical to your own. Each spell takes a week of your time to learn with a mentor, or twice as long without.  

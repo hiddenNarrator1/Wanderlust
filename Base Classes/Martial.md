@@ -3,6 +3,7 @@
 **Mana**: 0  
 **Attribute Bonuses**: +1 STR or AGI, +1 END  
 **Skill Bonuses**: Choose 2 Weapon Skills for Rank 1, Exert 1  
+**Saving Throws**: Add 1 every level to Physical and Reflex saves.
 
 ### Abilities
 **(Level 1) Stand Your Ground**: Attacks, missed or hit, give momentum tokens.

@@ -3,6 +3,7 @@
 **Mana**: 8 + RES
 **Attribute Bonuses**: +1 RES, +1 PER  
 **Skill Bonuses**:  Religion 1, Cast Magic 2, Talk 1, Divine 2  
+**Saving Throws**: Add 1 every other level to Physical and Mental saves.
  
 ### Abilities
 **(Level 1, 3, 5) Miracles**: Your chosen patron gifts you with miracles. All cost 2 Mana to use, and passives hold onto Mana until they are dispelled and a day has passed. 
