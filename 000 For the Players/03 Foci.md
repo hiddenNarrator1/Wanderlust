@@ -19,7 +19,7 @@ Some spellcasters learn to work with intricate movements while wearing armor, as
 **Level 1**: After foraging for ingredients, you may craft a tasty meal for the party. Eating the meal gives DR 1 against Phys. for a scene.
 **Level 2**: You craft one meal specialized for any occasion. Whoever consumes it will become immune to 1 elemental damage type for 1 scene.
 ### CQC 
-**Level 1**: Increase 1 combat skill. Ranged attacks can be made at melee without penalty and have DR 1 against Melee attacks.
+**Level 1**: Increase 1 combat skill. Ranged attacks with 1 handed weapons can be made at melee without penalty and have +1 Armor against Melee attacks.
 **Level 2**: You may perform a maneuver in combination with one of your attacks, so long as it targets an adjacent space.
 ### Assassin
 **Level 1**: Increase Sneak. One object no larger than a knife can be concealed automatically and drawn instantly on your turn. Doing so for the first time guarantees a hit.
