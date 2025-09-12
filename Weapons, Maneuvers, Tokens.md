@@ -26,4 +26,4 @@ Tokens are gained through the following methods.
 - Move: 15ft per 1s.
 - Recover: 6s, trade Strain for Guard.
 ### Techniques
-Time for techniques is equal to attack time plus one second.
+Time for techniques is equal to attack time plus one second. Damage done by techniques ignore armor.
