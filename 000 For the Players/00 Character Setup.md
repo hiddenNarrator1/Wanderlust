@@ -29,13 +29,7 @@
 5. Strain (10 + 2 * END)
 
 
-### Max Skills and Attributes
-
-| Skill Level | Cost | Min Level |
-| ----------- | ---- | --------- |
-| 1           | 1    | 1         |
-| 2           | 3    | 3         |
-| 3           | 5    | 6         |
-| 4           | 7    | 9         |
-| 5           | 9    | 12        |
+### Increasing Skills and Attr
+Skills can be increased, a number equal to 1 + Tier on specific levels.
+Increase Attr from Capstone and new tiers.
 

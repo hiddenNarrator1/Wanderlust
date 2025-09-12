@@ -30,6 +30,9 @@ GM decides how far they’ll go for you.
 **Level 2**: Once per game session, if it’s not entirely implausible, you meet someone you know who is willing to do modest favors for you. You can decide when and where you want to meet this person, but the GM decides who they are and what
 they can do for you.
 
+### Pop Idol
+**Level 1**: Increase Perform.
+
 ### Healer
 **Level 1**: Increase Heal. You may stabilize someone without taking time on your turn. When you roll to heal, roll with advantage.
 **Level 2**: Using basic medical supplies, you may heal Grit equal to a number of d6 equal to your tier + Heal once per day. All healing items you use also heal twice as much Grit.
