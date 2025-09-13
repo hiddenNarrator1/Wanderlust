@@ -17,7 +17,6 @@
 ### I.T. (INT +1, PER +1)
 - Choose 3 Skills : Fix, Trade, Persuade, Deduce, Notice
 - Given Skills: Program 
-
 ### Driver (AGI +1, PER +1)
 - Choose 2 Skills: Connect, Notice, Trade, Persuade
 - Given Skills: One Vehicle, Fix
