@@ -1,8 +1,8 @@
 ### Stats
 
-| STR | 1   | HP    | 25     | WALK | 10  |
+| STR | 1   | HP    | 20     | WALK | 10  |
 | --- | --- | ----- | ------ | ---- | --- |
-| AGI | 2   | Armor | 2      | FLY  | 0   |
+| AGI | 2   | Armor | 1      | FLY  | 0   |
 | END | 0   | Skill | 1-2    | SWIM | 20  |
 | INT | -3  | MOR   | 9      | PHYS | 2   |
 | PER | 0   | HD    | 3      | EVAS | 3   |
