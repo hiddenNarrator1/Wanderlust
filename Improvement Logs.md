@@ -10,3 +10,6 @@
 - 1s free movement
 - Lunging attacks
 - Destructive Blast Buff?
+- Note most important stats
+- Change Priest Stats to END and RES, have miracles be altered with Cast Magic
+- Niche skills
