@@ -9,3 +9,4 @@
 - Increase enemy Armor.
 - 1s free movement
 - Lunging attacks
+- Destructive Blast Buff?
