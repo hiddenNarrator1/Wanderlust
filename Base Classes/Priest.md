@@ -1,7 +1,7 @@
 ### Stats
 **Health**: d6 (Starting 6)  
 **Mana**: 8 + RES
-**Attribute Bonuses**: +1 RES, +1 PER  
+**Attribute Bonuses**: +1 RES, +1 END  
 **Skill Bonuses**:  Religion, Cast Magic, Talk  
 **Saving Throws**: Add 1 every other level to Physical and Mental saves.
  
