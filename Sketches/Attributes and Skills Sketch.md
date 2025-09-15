@@ -10,9 +10,11 @@
 - Deduce
 - Exert
 - Fix
-- Notice
+- Heal
+- History
 - Perform
 - Persuade
+- Pilot
 - Program
 - Sneak
 - Survive
