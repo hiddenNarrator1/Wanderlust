@@ -14,3 +14,7 @@
 - Note most important stats (Martial: STR/AGI and END, Expert: INT and PER, Mage: INT and RES, Priest: END and RES)
 - Change Priest Stats to END and RES, have miracles be altered with Cast Magic (Bountiful Life, Hidden in Shadow, Holy Words, Protective Embrace, Sacred Relic)
 - Niche skills redo: Instead of having different skills for a bunch of different backgrounds, I am going to simplify things. For casters, there will be a Cast Magic and Know Magic skill, which you may roll normally for any magic. HOWEVER, if a background or class seems relevant to a check (e.g. a priest looking at last rites) they roll with advantage instead. I am also adding a History skill and otherwise removing the niche skills.
+
+### Post-Barrows
+- Make medkit good: Heal check of DC 10 to restore a number of Grit equal to HD. An individual's DC to be restored goes up by 1 every time it is used again, and resets on a rest.
+- Increase Priest Mana?
