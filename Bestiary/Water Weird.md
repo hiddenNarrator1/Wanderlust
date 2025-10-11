@@ -12,8 +12,8 @@
 
 | Name  | RNG         | DMG              | Properties                         | Tech                      |
 | ----- | ----------- | ---------------- | ---------------------------------- | ------------------------- |
-| Slam  | 10 ft.      | d8 + 4           | Grapple on Failed DC 10 PHYS save. | Slam: Prone, deal damage. |
-| Choke | On Grappled | 4 per round auto |                                    |                           |
+| Slam  | 10 ft.      | d8 + 5           | Grapple on Failed DC 10 PHYS save. | Slam: Prone, deal damage. |
+| Choke | On Grappled | 5 per round auto |                                    |                           |
 
 ### Items
 

@@ -2,7 +2,7 @@
 
 | STR | 0   | HP    | 35     | WALK | 20  |
 | --- | --- | ----- | ------ | ---- | --- |
-| DEX | 2   | Armor | 3      | FLY  | -   |
+| DEX | 2   | Armor | 4      | FLY  | -   |
 | END | 3   | Skill | 2-4    | SWIM | -   |
 | INT | 1   | MOR   | 8      | PHYS | 4   |
 | WIS | 0   | HD    | 5      | EVAS | 7   |
@@ -21,7 +21,7 @@
 
 | Name  | RNG  | DMG    | Properties              | Tech                              |
 | ----- | ---- | ------ | ----------------------- | --------------------------------- |
-| Claws | Adj. | d6 + 5 | Bleed 1, Slow 5 1 round | Whirlwind: Min damage all around. |
+| Claws | Adj. | d6 + 6 | Bleed 1, Slow 5 1 round | Whirlwind: Min damage all around. |
 |       |      |        |                         |                                   |
 
 ### Items
