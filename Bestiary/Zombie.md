@@ -2,7 +2,7 @@
 
 | STR | 0   | HP    | 7   | WALK | 15  |
 | --- | --- | ----- | --- | ---- | --- |
-| AGI | -2  | Armor | 1   | FLY  | -   |
+| AGI | -2  | Armor | 2   | FLY  | -   |
 | END | 1   | Skill | 0   | SWIM | -   |
 | INT | -2  | MOR   | 8   | PHYS | 1   |
 | PER | -1  | HD    | 1   | EVAS | -1  |
