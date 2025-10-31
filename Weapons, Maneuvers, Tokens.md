@@ -10,7 +10,6 @@ Each weapon has techniques that players can perform with enough **momentum token
 Some properties may also allow for new techniques. 
 
 ### Gaining Tokens
-
 Tokens are gained through the following methods.
 **Performing a Maneuver**: Whether successful or not, a maneuver will always give a player an additional token. Maneuvers include Main Actions such as disarming, grappling, feinting, etc.
 **Using an Item**: If an item is used specifically not to attack an individual, but instead apply an advantage of some kind, the player gains a token. Examples of this include healing items, buffs, debuffs, anything that would not cause direct damage by activation. 
