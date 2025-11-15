@@ -1,12 +1,12 @@
 ### Stats
 
-| STR |     | HP    |     | WALK |     |
+| STR | 2   | HP    | 40  | WALK | 20  |
 | --- | --- | ----- | --- | ---- | --- |
-| AGI |     | Armor |     | FLY  |     |
-| END |     | Skill |     | SWIM |     |
-| INT |     | MOR   |     | PHYS |     |
-| PER |     | HD    |     | EVAS |     |
-| RES |     | DR/DV |     | MENT |     |
+| AGI | 1   | Armor | 3   | FLY  |     |
+| END | 2   | Skill | +3  | SWIM |     |
+| INT | -2  | MOR   |     | PHYS | +8  |
+| PER | 1   | HD    | 6   | EVAS | +4  |
+| RES | 0   | DR/DV |     | MENT | +0  |
 ### Skills
 
 | +0  |     |
@@ -19,9 +19,9 @@
 
 ### Offense
 
-| Name | RNG | DMG | Properties | Tech |
-| ---- | --- | --- | ---------- | ---- |
-|      |     |     |            |      |
+| Name            | RNG | DMG   | Properties | Tech |
+| --------------- | --- | ----- | ---------- | ---- |
+| Makeshift Blade | Adj | d10+5 |            |      |
 
 ### Items
 
