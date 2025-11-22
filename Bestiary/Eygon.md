@@ -1,12 +1,13 @@
 ### Stats
+5
 
-| STR | 2   | HP    | 55  | WALK | 20  |
-| --- | --- | ----- | --- | ---- | --- |
-| AGI | 1   | Armor | 3   | FLY  |     |
-| END | 2   | Skill | +3  | SWIM |     |
-| INT | -2  | MOR   | 9   | PHYS | +8  |
-| PER | 1   | HD    | 6   | EVAS | +4  |
-| RES | 0   | DR/DV |     | MENT | +0  |
+| STR | 2   | HP    | 40     | WALK | 20  |     |
+| --- | --- | ----- | ------ | ---- | --- | --- |
+| AGI | 1   | Armor | 3 (+1) | FLY  |     |     |
+| END | 2   | Skill | +3     | SWIM |     |     |
+| INT | -2  | MOR   | 9      | PHYS | +8  |     |
+| PER | 1   | HD    | 6      | EVAS | +4  |     |
+| RES | 0   | DR/DV |        | MENT | +0  |     |
 ### Skills
 
 | +0  |     |
