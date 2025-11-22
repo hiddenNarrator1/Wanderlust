@@ -1,6 +1,6 @@
 ### Stats
 
-| STR | 2   | HP    | 40  | WALK | 20  |
+| STR | 2   | HP    | 55  | WALK | 20  |
 | --- | --- | ----- | --- | ---- | --- |
 | AGI | 1   | Armor | 3   | FLY  |     |
 | END | 2   | Skill | +3  | SWIM |     |
