@@ -44,3 +44,15 @@ they can do for you.
 ### Impervious
 **Level 1**: You have a natural Armor of 2 + half level, rounded down.
 **Level 2**: Once per day, you may reduce one instance of damage from a source, so long as it cannot kill you.
+
+### Diplomat
+**Level 1:** Gain Talk as a bonus skill. You speak all the languages common to the sector and can learn new ones to a workable level in a week, becoming fluent in a month. Reroll 1s on any skill check dice related to negotiation or diplomacy.
+**Level 2:** Once per game session, shift an intelligent NPC’s reaction roll one step closer to friendly if you can talk to them for at least thirty seconds.
+
+### Savage Fray
+**Level 1:** Gain Melee as a bonus skill. All enemies adjacent to you at the end of your turn whom you have not attacked suffer minimum damage (assumed 1 on the die) against your weapon, though their armor still reduces this.
+**Level 2:** After suffering your first melee hit in a round, any further melee attacks from other assailants automatically miss you. If the attacker who hits you has multiple attacks, they may attempt all of them, but other foes around you simply miss.
+
+### Grab Bag
+**Level 1:** Once per session, you may retroactively buy an item as an on-turn action costing 0s. This assumes the item is reasonable to buy. 
+**Level 2:** All items may now be applied to yourself or others simultaneously with another action, though the highest time cost is assumed. All items now only take 2 seconds maximum to apply.
