@@ -1,5 +1,5 @@
 HD 3, Change to 18 Hp, 3 armor
-Gets automatic rifle d8 + 4, burst
+Gets automatic rifle d8 + 4, burst, add 1 to saves
 ### Stats
 
 | STR | 1   | HP    | 12  | WALK | 15  |
