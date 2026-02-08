@@ -56,3 +56,7 @@ they can do for you.
 ### Grab Bag
 **Level 1:** Once per session, you may retroactively buy an item as an on-turn action costing 0s. This assumes the item is reasonable to buy. 
 **Level 2:** All items may now be applied to yourself or others simultaneously with another action, though the highest time cost is assumed. All items now only take 2 seconds maximum to apply.
+
+### Specialist
+**Level 1**: Gain a non-combat, non-magic skill as a bonus. Roll 3d6 and drop the lowest die for all skill check in this skill.
+**Level 2**: Roll 4d6 and drop the two lowest dice for all skill checks in this skill.
