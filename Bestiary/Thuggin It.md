@@ -1,7 +1,8 @@
-
+HD 3, Change to 18 Hp, 3 armor
+Gets automatic rifle d8 + 4, burst
 ### Stats
 
-| STR | 1   | HP    | 12  | WALK | 30  |
+| STR | 1   | HP    | 12  | WALK | 15  |
 | --- | --- | ----- | --- | ---- | --- |
 | DEX | 2   | Armor | 2   | FLY  | -   |
 | CON | 0   | Skill | +1  | SWIM | -   |
