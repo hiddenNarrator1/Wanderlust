@@ -31,3 +31,8 @@ These folk resemble sea turtles, with distinct patterns on their shells. Many fa
 (+) You are able to walk on walls and on water.  
 (-) Getting hit with a critical hit stuns you for a round.  
 (-) Bleed conditions last an additional 2 rounds.  
+
+### Wolfman
+(+) You have unarmed weaponry, 2d4 for claws, 1d8 for fangs. You may also leap up to 20ft. and and attack at the cost of 1 token.
+(+) You have a climbing speed equal to your walking speed.
+(-) Take 2 extra unblockable damage from fire and pure metals. Metals also force a DC 10 PHYS save or poison you for 1 minute. The save is repeatable per turn.
