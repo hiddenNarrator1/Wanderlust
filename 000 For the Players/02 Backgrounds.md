@@ -23,3 +23,7 @@
 ### Cultist (INT +1, RES +1)
 - Choose 2 Skills: Connect, Deduce, Persuade, Survive, Perform
 - Given Skills: History, Religion
+
+### First Responder (STR or AGI +1, INT or RES +1)
+- Choose 2 skills: Deduce, Connect, Fix, Exert, Persuade
+- Given Skills: Heal, Pilot
