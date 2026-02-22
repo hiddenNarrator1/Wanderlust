@@ -35,7 +35,7 @@ Onyx: Immune necrotic, tech causes weakened for 1 rd
 Silver: Immune cold, tech causes frozen
 Gold: Immune light, tech blinds for 1 rd
 
-Silver: 12
-Ruby: 29
+Silver: 0
+Ruby: 4
 Gold: 0
-Onyx: 23
+Onyx: 0
