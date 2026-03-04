@@ -3,11 +3,11 @@
 and repair.  
 **Level 2**: Increase Fix. The Speed of a vehicle you drive is increased by 1 point. Once per vehicle, you can add a mod to it for free, ignoring money and experimental component costs. Only you can effectively operate this mod, but it requires no Maintenance. You can change this free mod with a week of downtime. (Mods TBA)  
 ### Alert
-  Your senses are heightened and you are impossible to take unaware.
+  Your senses are heightened and you are impossible to take unaware.  
   **Level 1**: Increase Notice. You cannot be surprised or be attacked by Assassination. Initiative is rolled at advantage, or +1 if side/zipper initiative is used.  
   **Level 2**: You always go first in combat, unless an opponent also has this feature. If so, roll to see who goes first.  
 ### Armor Mage
-Some spellcasters learn to work with intricate movements while wearing armor, as to gain the benefits of defense and arcana.
+Some spellcasters learn to work with intricate movements while wearing armor, as to gain the benefits of defense and arcana.  
 **Level 1**: You may cast while wearing armor with a Bulk of 1 and while both hands are full, but not bound.  
 **Level 2:** You may cast while wearing armor of any bulk.  
 ### Assassin
