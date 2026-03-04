@@ -66,6 +66,10 @@ undiscovered for at least 24 hours if you can get to it without being followed. 
 ### Savage Fray
 **Level 1:** Gain Melee as a bonus skill. All enemies adjacent to you at the end of your turn whom you have not attacked suffer minimum damage (assumed 1 on the die) against your weapon, though their armor still reduces this.
 **Level 2:** After suffering your first melee hit in a round, any further melee attacks from other assailants automatically miss you. If the attacker who hits you has multiple attacks, they may attempt all of them, but other foes around you simply miss.
+### Sniper
+**Level 1**: Increase Ranged. When making a skill check for a ranged Execution Attack or
+target shooting, roll 3d6 and drop the lowest die.  
+**Level 2:** You don’t miss ranged Execution Attacks. A target hit by one takes a -4 penalty on the Physical saving throw to avoid immediate mortal injury. Even if the save is successful, the target takes double the normal damage inflicted by the attack.  
 ### Specialist
 **Level 1**: Gain a non-combat, non-magic skill as a bonus. Roll 3d6 and drop the lowest die for all skill check in this skill.
 **Level 2**: Roll 4d6 and drop the two lowest dice for all skill checks in this skill.
