@@ -3,9 +3,9 @@
 and repair.  
 **Level 2**: Increase Fix. The Speed of a vehicle you drive is increased by 1 point. Once per vehicle, you can add a mod to it for free, ignoring money and experimental component costs. Only you can effectively operate this mod, but it requires no Maintenance. You can change this free mod with a week of downtime. (Mods TBA)  
 ### Alert
-  Your senses are heightened and you are impossible to take unaware.  
-  **Level 1**: Increase Notice. You cannot be surprised or be attacked by Assassination. Initiative is rolled at advantage, or +1 if side/zipper initiative is used.  
-  **Level 2**: You always go first in combat, unless an opponent also has this feature. If so, roll to see who goes first.  
+Your senses are heightened and you are impossible to take unaware.  
+**Level 1**: Increase Notice. You cannot be surprised or be attacked by Assassination. Initiative is rolled at advantage, or +1 if side/zipper initiative is used.  
+**Level 2**: You always go first in combat, unless an opponent also has this feature. If so, roll to see who goes first.  
 ### Armor Mage
 Some spellcasters learn to work with intricate movements while wearing armor, as to gain the benefits of defense and arcana.  
 **Level 1**: You may cast while wearing armor with a Bulk of 1 and while both hands are full, but not bound.  
@@ -59,9 +59,7 @@ tenth. You can’t mobilize them to buy your content more than once per month.
 **Level 1**: Increase Survive and Pilot. You have conversational skill in all common languages spoken in the region or city, and you never get lost. You have “acquired” one or more vehicles worth no more than $5000 per character level.  You can replace lost or damaged vehicles at a rate of $10,000 per week, which cannot be liquidated.  
 **Level 2**: Once per scene, as an Instant action, you can reroll a failed skill check related to safe traveling or vehicle operation, whether to fix a blown engine or talk down a ganger who doesn’t like strangers crossing his turf.  
 ### Safe Haven
-**Level 1**: Gain Sneak as a bonus skill. If you spend a week in a particular neighborhood, you can find or arrange a secure safe house and the on-call assistance of a local medic willing to perform emergency care for no more than you
-can afford to pay. This safe house will always go unnoticed unless someone spends a month finding it or you specifically compromise it; even in that case, it will remain
-undiscovered for at least 24 hours if you can get to it without being followed. If a safe house is burnt, you can find a new one with another week’s work. A PC can’t have more safe houses active at once than their character level.  
+**Level 1**: Gain Sneak as a bonus skill. If you spend a week in a particular neighborhood, you can find or arrange a secure safe house and the on-call assistance of a local medic willing to perform emergency care for no more than you can afford to pay. This safe house will always go unnoticed unless someone spends a month finding it or you specifically compromise it; even in that case, it will remain undiscovered for at least 24 hours if you can get to it without being followed. If a safe house is burnt, you can find a new one with another week’s work. A PC can’t have more safe houses active at once than their character level.  
 **Level 2**: Your safe houses are actively protected by the local authorities, be they gang members, paid-off cops, or cooperative corp security. Provided you don’t make them angry, they’ll defend you from most ordinary degrees of pursuit. You can find safe havens geared with the equivalent of a workshop or clinic.   
 ### Savage Fray
 **Level 1:** Gain Melee as a bonus skill. All enemies adjacent to you at the end of your turn whom you have not attacked suffer minimum damage (assumed 1 on the die) against your weapon, though their armor still reduces this.  
