@@ -14,6 +14,7 @@
 | ------------------ | ------ | ---- | -------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | Triple Melee Combo | 10 ft. | 4s   | d10 + 6 (Claws)<br>d8 + 6 (Beak) | Bleed 1                                                                               | Disembowel(3T): EVAS or be eviscerated for 16 damage, and stunned for a round. |
 | Blazing Trail      | 30 ft  | 3s   | d8 + 3 if impacted               | A line of fire forms behind. Does 3 damage at start of target's turn. Lasts 3 rounds. |                                                                                |
+| Fire Breath        |        |      |                                  |                                                                                       |                                                                                |
 
 ### Items
 
@@ -22,3 +23,4 @@
 |      |     |      |
 
 ### Properties
+Golden Sandstorm: A delayed attack covering 3 15ft radius circles
