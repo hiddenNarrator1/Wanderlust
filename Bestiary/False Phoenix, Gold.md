@@ -23,4 +23,4 @@
 |      |     |      |
 
 ### Properties
-Golden Sandstorm: A delayed attack covering 3 15ft radius circles
+Golden Sandstorm: A delayed attack covering 3 15ft radius circles that touch at least another circle. Anyone caught makes an EVAS save or takes d8 + 3 flame and burns for 1 damage next round. It is delayed by 1 round, and happens at the end of every round.
