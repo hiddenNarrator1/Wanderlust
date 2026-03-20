@@ -7,21 +7,12 @@
 | INT |     | MOR   |     | PHYS |     |
 | PER |     | HD    |     | EVAS |     |
 | RES |     | DR/DV |     | MENT |     |
-### Skills
-
-| +0  |     |
-| --- | --- |
-| +1  |     |
-| +2  |     |
-| +3  |     |
-| +4  |     |
-| +5  |     |
 
 ### Offense
 
-| Name | RNG | DMG | Properties | Tech |
-| ---- | --- | --- | ---------- | ---- |
-|      |     |     |            |      |
+| Name | RNG | Time | DMG | Properties | Tech |
+| ---- | --- | ---- | --- | ---------- | ---- |
+|      |     |      |     |            |      |
 
 ### Items
 
