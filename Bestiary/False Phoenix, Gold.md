@@ -1,11 +1,11 @@
 ### Stats
 
-| STR | 3   | HP    | 40                         | WALK | 40  |
+| STR | 3   | HP    | 70                         | WALK | 40  |
 | --- | --- | ----- | -------------------------- | ---- | --- |
 | AGI | 1   | Armor | 5                          | FLY  | 40  |
 | END | 2   | Skill | +3                         | SWIM |     |
 | INT | 1   | MOR   | Inf                        | PHYS | 10  |
-| PER | 0   | HD    | 7                          | EVAS | 4   |
+| PER | 0   | HD    | 10                         | EVAS | 4   |
 | RES | 4   | DR/DV | Immune to Fire, DV 2 Frost | MENT | 7   |
 
 ### Offense
