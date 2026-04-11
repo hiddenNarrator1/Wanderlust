@@ -27,3 +27,7 @@
 ### First Responder (STR or AGI +1, INT or RES +1)
 - Choose 2 skills: Deduce, Connect, Fix, Exert, Persuade
 - Given Skills: Heal, Pilot
+
+### Educator (INT +1, PER +1)
+- Choose 2 Skills: Connect, Heal, Perform, Program, Survive, Trade, 1 Niche
+- Given Skills: Know, Deduce

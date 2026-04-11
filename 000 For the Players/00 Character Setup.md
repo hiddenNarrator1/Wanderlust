@@ -1,14 +1,13 @@
 ### Summary
-1. Set up Attributes
-2. Ancestry
-3. Background and Free Attribute Bonus
-4. Focus
-5. Base Class
-6. Free Skill and Combat Skill
-7. HP
-8. Equipment and Encumbrance
-9. Armor
-10. Saves (Base is Level Bonus plus maximum relevant Attribute)
+1. Ancestry
+2. Background and Free Attribute Bonus
+3. Focus
+4. Base Class
+5. Free Skill and Combat Skill
+6. HP
+7. Equipment and Encumbrance
+8. Armor
+9. Saves (Base is Level Bonus plus maximum relevant Attribute)
 
 ### Important Statistics
 1. The 6 Attributes 
