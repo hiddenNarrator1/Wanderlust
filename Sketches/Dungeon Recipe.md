@@ -17,9 +17,9 @@
 ### 2a. Puzzles
 - Add specific interactables (levers, switches, platforms, ritual circles, turrets) and at least one hint to begin. The goal of the puzzle should also be obvious (open a door, get an item, stop catastrophe). Note each interactable to the players.
 - Add hazards, if any (pits again, lava, weaponry, trap triggers) to either punish wrong answers or make correct ones difficult.
-- Add key locations, if any 
+- Puzzles are best done in 3-5 steps. Not every step should have only one solution, but one possible route should be thought of per step.
 ### 3. Dressing
 - Add movable objects and decorations.
 - Enemy placement.
 - Alter previous primary structures as needed for story or variety. 
-- Items and their cash values
+- Items and their cash values.
