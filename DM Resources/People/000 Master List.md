@@ -1,0 +1,7 @@
+[[Luther Latesco]]
+[[Luanne]]
+[[V]]
+[[Sam Magnus the Absurd]]
+[[Guildmaster Derek]]
+[[Bernese the Alchemist]]
+[[Amos Overland]]
