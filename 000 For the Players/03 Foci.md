@@ -26,15 +26,14 @@ Some spellcasters learn to work with intricate movements while wearing armor, as
 **Level 1**: Increase 1 combat skill. Ranged attacks with 1 handed weapons can be made at melee without penalty and have +1 Armor against Melee attacks.  
 **Level 2**: You may perform a maneuver in combination with one of your attacks, so long as it targets an adjacent space.  
 ### Connected
-**Level 1**: Increase Connect. If you’ve spent at least a week in a not-entirely-hostile location, you’ll have built a web of contacts willing to do favors for you that are no more than mildly illegal. You can call on one favor per game day and the
-GM decides how far they’ll go for you.  
+**Level 1**: Increase Connect. If you’ve spent at least a week in a not-entirely-hostile location, you’ll have built a web of contacts willing to do favors for you that are no more than mildly illegal. You can call on one favor per game day and the GM decides how far they’ll go for you.  
 **Level 2**: Once per game session, if it’s not entirely implausible, you meet someone you know who is willing to do modest favors for you. You can decide when and where you want to meet this person, but the GM decides who they are and what
 they can do for you.  
 ### Deadeye
 **Level 1**: Increase Ranged. Ignore 1 armor with ranged weapons. You may use two-handed ranged weapons in melee range at a -4 penalty and one-handed ones with no penalty.  
 **Level 2**: Reloading takes no time. A 1 no longer counts as a miss.  
 ### Diplomat
-**Level 1:** Gain Talk as a bonus skill. You speak all the languages common to the sector and can learn new ones to a workable level in a week, becoming fluent in a month. Reroll 1s on any skill check dice related to negotiation or diplomacy.  
+**Level 1:** Gain Talk as a bonus skill. You speak all the languages common to the area and can learn new ones to a workable level in a week, becoming fluent in a month. Reroll 1s on any skill check dice related to negotiation or diplomacy.  
 **Level 2:** Once per game session, shift an intelligent NPC’s reaction roll one step closer to friendly if you can talk to them for at least thirty seconds.  
 ### Goonkeeper
 **Level 1**: Increase Persuade. You can acquire goons within 24 hours of arriving in a community, assuming anyone is suitable goon material. These goons will not fight except to save their own lives, but will escort you on adventures and risk great danger to help you. Most goons have no bonuses, 5 HP, and a morale of 8. You can have one goon at a time for every three character levels you have, rounded up. You can release goon with no hard feelings at any plausible time and pick them back up later should you be without a current goon.  
