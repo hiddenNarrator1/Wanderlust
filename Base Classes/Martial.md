@@ -14,8 +14,8 @@
 ### Battle Feats
 - **Assassin**: Attacks performed on a flanked, blinded, or surprised target do additional damage equal to half your level, rounded up.
 - **Crusher**: You always deal half your maximum damage when wielding a 2 handed weapon, even if you roll lower.
-- **Duelist**: When fighting an enemy with no combatants adjacent to either of you, you gain a +1 class bonus on TH and damage rolls.
+- **Duelist**: When fighting an enemy with no combatants adjacent to either of you, you gain a +1 bonus on damage rolls.
 - **Marksman**: Make a unique action of 1 second once per turn to steady aim, reducing the critical hit threshold by 2 on your next ranged attack.
-- **Sentinel**: Opportunity attacks cost only 1 SP, and can be performed on an approaching target. Standing still for a round maintains a +1 to your AC.
+- **Sentinel**: You may make one opportunity attack per round as someone leaves your melee range. Standing still for a round maintains a +1 to your AC.
 - **Stormer**: Consecutive hits, including between rounds, increase the damage of the next strike, up to a maximum of 3. Missing an attack resets the stacking damage, but performing other actions maintains the stack.
 - **Unarmed Striker**: Increase your unarmed strike damage die to a d8 + half your level, rounded down. You no longer need equipment to properly damage someone wearing armor when attacking unarmed.

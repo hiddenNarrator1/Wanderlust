@@ -17,7 +17,7 @@ Some spellcasters learn to work with intricate movements while wearing armor, as
 **Level 1**: Increase Fix and treat it as one level higher for maintaining and creating modifications. Modifications also require 1 less mundane and magical salvage (min 1).  
 **Level 2**: The first mod on a weapon costs half to create and implement. In addition, you may decrease the salvage cost of a mod by 1 every month, min 0.  
 ### Authority
-**Level 1**: Increase Persuade Once per day, you can make a request from an NPC who is not openly hostile to you, rolling a Cha/Lead skill check at a difficulty of the NPC’s Morale score. If you succeed, they will comply with the request, provided it is not harmful or extremely uncharacteristic.  
+**Level 1**: Increase Persuade. Once per day, you can make a request from an NPC who is not openly hostile to you, rolling a Cha/Lead skill check at a difficulty of the NPC’s Morale score. If you succeed, they will comply with the request, provided it is not harmful or extremely uncharacteristic.  
 **Level 2**: Those who follow you are fired with confidence. Any NPC being directly led by you gains a Morale and hit roll bonus equal to your Persuade skill and a +1 bonus on all skill checks. Your followers will not act against your interests unless under extreme pressure.  
 ### Chef
 **Level 1**: After foraging for ingredients, you may craft a tasty meal for the party. Eating the meal gives DR 1 against Phys. for a scene.  
@@ -69,7 +69,7 @@ tenth. You can’t mobilize them to buy your content more than once per month.
 target shooting, roll 3d6 and drop the lowest die.  
 **Level 2:** You don’t miss ranged Execution Attacks. A target hit by one takes a -4 penalty on the Physical saving throw to avoid immediate mortal injury. Even if the save is successful, the target takes double the normal damage inflicted by the attack.   
 ### Specialist
-**Level 1**: Gain a non-combat, non-magic skill as a bonus. Roll 3d6 and drop the lowest die for all skill check in this skill.  
+**Level 1**: Gain a non-combat, non-magic skill as a bonus. Roll 3d6 and drop the lowest die for all skill checks in this skill.  
 **Level 2**: Roll 4d6 and drop the two lowest dice for all skill checks in this skill.  
 ### Unregistered
 **Level 1**: You have no government or corporate database records associated with you, and it is almost impossible to add any such records without them ending up corrupted or deleted within a week. Human beings can remember you, but they can’t rely on computerized records to keep track of you or your activities. You can keep money on credit chips or in cash, but banking or formal property ownership is almost impossible for you.  

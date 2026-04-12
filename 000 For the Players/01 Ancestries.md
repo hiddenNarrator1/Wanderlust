@@ -36,3 +36,9 @@ These folk resemble sea turtles, with distinct patterns on their shells. Many fa
 (+) You have unarmed weaponry, 2d4 for claws, 1d8 for fangs. You may also leap up to 20ft. and and attack at the cost of 1 token.  
 (+) You have a climbing speed equal to your walking speed.  
 (-) Take 2 extra unblockable damage from fire and pure metals. Metals also force a DC 10 PHYS save or poison you for 1 minute. The save is repeatable per turn.  
+
+### Sentinel
+(+) You can be healed a number of Grit equal to one Hit Die using mechanic's tools during a long rest.
+(+/-) Effects that affect organic creatures do not affect you (poison, bleeding, healing, etc)
+(+/-) Overclock (3T): For the next 3 turns, gain an additional 3 seconds. After 3 turns, you are stunned and completely immobile.
+(-) DV 2 magic damage against Grit.
