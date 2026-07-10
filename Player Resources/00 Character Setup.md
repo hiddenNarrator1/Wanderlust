@@ -17,13 +17,13 @@
 	4. INTELLECT
 	5. PERCEPTION
 	6. RESOLVE
-2. Saving Throws (DC 10 + Cast Magic, Roll d20 + highest Attr + 1/3 level)
+2. Saving Throws 
 	1. Mental (INT, RES)
 	2. Physical (STR, END)
 	3. Reflexive (AGI, PER)
 3. Class Specific
-	1. Grit and Guard: HP split into two. Grit adds END, Guard adds AGI. Guard is restored after fights or during with Strain.
-	2. Mana for Spellcasters
+	1. Grit and Stamina: HP split into two. Grit adds END, Stamina adds AGI. Stamina is restored after fights or during with Strain (see Second Wind).
+	2. Mana for Spellcasters. After a scene, casters can restore Mana at a rate of their Level per point of Strain taken on.
 4. Encumbrance (10 + 2 * STR)
 5. Strain (10 + 2 * END)
 
@@ -38,4 +38,4 @@ Half your level rounded down is added to...
 - Skills
 - Armor
 - Saves
-- Grit and Guard
+- Grit and Stamina
