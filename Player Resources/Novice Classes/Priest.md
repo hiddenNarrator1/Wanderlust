@@ -6,9 +6,9 @@
 **Saving Throws**: Boost to Physical and Mental.
  
 ### Abilities
-**(Level 1, 3, 5) Miracles**: Your chosen patron gifts you with miracles. All cost 2 Mana to use, and passives hold onto Mana until they are dispelled and a day has passed. 
+**(Level 1, 3, 5) Miracles**: Your chosen patron gifts you with miracles. All cost 2 Mana to use, and passives hold onto Mana until they are dispelled and a day has passed.  Choose two miracles at level one and add one at levels 3 and 5.
 - **Bountiful Life**: Heal an amount of Grit equal to RES + Divine per round over the course of 3 rounds on a target the Priest can see.
-- **Chosen Warrior's Weapon**: A weapon is bonded to the Priest's soul, never separable from them, with a +1 bonus to-hit. This weapon may also be put into a pocket dimension and retrieved instantly.
+- **Chosen Warrior's Weapon**: A weapon is bonded to the Priest's soul, never separable from them, with an additional +Level Bonus to-hit. This weapon may also be put into a pocket dimension and retrieved instantly.
 - **Destructive Blast**: Roll to-hit with the highest combat skill to blast someone with radiant energy at a range of 90 ft. The blast does a number of d8 + Divine in damage equal to half the Priest's level, rounded down (min 1d8). The damage type is chosen between the DM and Priest. The Mana restores after a scene.
 - **Heart's Aid**: The Priest may instantly stabilize someone who is dying or in critical condition as a 2s Action. Restores after a scene.
 - **Hidden in Shadow**: Touch a target to turn them ethereal. Gain the ability to teleport within shadows up to 30 ft as a 2s Action, and add Divine to Armor. This lasts 3 rounds.
@@ -18,4 +18,8 @@
 - **Sacred Relic**: A relic is made that, when crushed, gives the recipient Divine Armor for 1 round and notifies the priest. Restores the day after the relic is crushed.
 - **Tireless Agent**: You never need to sleep, eat, or drink. Ever. Extreme weather has no effect on you. Your overland speed increases by half your Divine in hexes, rounded down.
 - **To Teach the Flock**: Give a target that can be touched a +1 bonus to a skill the Priest is skilled in. Restores after a scene.
-**(Level 5) Sanctuary Ritual**: After an hour of preparation, you may bless an area up to 30 ft. in diameter to give all allies the benefits of 2 of your chosen miracles.
+Casting miracles requires the user to make a RES roll equal to 5 + Level Bonus before casting. Each success increases the next DC by 1. Once the target fails, the spell they are trying to cast is lost until the next rest, and the DC resets.
+**(Level 5) Sanctuary Ritual**: After an hour of preparation, you may bless an area up to 15 ft. in diameter to give all allies the benefits of one of the following:
+- **Peacekeeper**: Targets auto-stabilize here and regain their Level in Stamina at the start of their turns.
+- **Stalwart**: Targets increase armor by their Level Bonus and cannot miss.
+- **Inquisition**: Attacks performed by allies in the circle add their Level to the damage after the attack penalty, if any, are applied.
