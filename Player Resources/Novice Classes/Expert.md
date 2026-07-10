@@ -18,7 +18,13 @@
 | Notice   | There's always a weak spot. Success reduces a target's armor to 0 for 1d3 rounds. This can only be done once per battle.                                                                                               |
 | Perform  | Give a little panache! On a success, your flourishes inspire your team and boost their movement by 5 ft/s                                                                                                              |
 | Heal     | When rolling to heal, a success gives the target DR equal to your LB on their next turn. This can also be done before administering an item that does not use a skill check.                                           |
-| Persuade | What charming leadership! On a success, choose an ally. They have advantage on their next roll, whether it is outside or                                                                                               |
+| Persuade | What charming leadership! On a success, choose an ally. They have advantage on their next roll, whether it is outside or inside their turn.                                                                            |
+| Program  | On a success, disable an electronic device for 1d3 rounds.                                                                                                                                                             |
+| Sneak    | Land a deadly sneak attack. Success gives you stealth, and your next attack ignores all armor.                                                                                                                         |
+| Survive  | Break past the limits of frailty. On a success, gain Max HP equal to twice your level, which disappears at the end of the scene. Can only be done once per day.                                                        |
+| Trade    | Dazzle them with wealth. Choose a target and spend $250 times their Morale. On a success, the money is spent and the target changes sides. Only really works on people with a concept of money.                        |
+| Pilot    | On success, vehicle damage from onboard weapons or ramming is rolled at advantage, or damage against the next attack towards the vehicle is reduced by half.                                                           |
+| Know     | You know ball. A weakness of a target is revealed to you on a success.                                                                                                                                                 |
 
-**Jack of All Trades (Level 5)**: All skills are treated as if you have one rank in them.
+**Jack of All Trades (Level 5)**: All skills add your Level Bonus.
 
