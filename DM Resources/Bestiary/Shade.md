@@ -4,9 +4,9 @@
 | --- | --- | ----- | ---------- | ---- | --- |
 | AGI | 0   | Armor | 2          | FLY  | -   |
 | END | 0   | Skill | +2         | SWIM | -   |
-| INT | 1   | MOR   | 8          | PHYS |     |
-| PER | 1   | HD    | 4          | EVAS |     |
-| RES | 1   | DR/DV | 1 Nonmagic | MENT |     |
+| INT | 1   | MOR   | 9          | PHYS | +2  |
+| PER | 1   | HD    | 4          | EVAS | +5  |
+| RES | 1   | DR/DV | 1 Nonmagic | MENT | +3  |
 
 ### Offense
 
