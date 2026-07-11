@@ -17,7 +17,7 @@ Some spellcasters learn to work with intricate movements while wearing armor, as
 **Level 1**: Increase Fix and treat it as one level higher for maintaining and creating modifications. Modifications also require 1 less mundane and magical salvage (min 1).  
 **Level 2**: The first mod on a weapon costs half to create and implement. In addition, you may decrease the salvage cost of a mod by 1 every month, min 0.  
 ### Authority
-**Level 1**: Increase Persuade. Once per day, you can make a request from an NPC who is not openly hostile to you, rolling a Cha/Lead skill check at a difficulty of the NPC’s Morale score. If you succeed, they will comply with the request, provided it is not harmful or extremely uncharacteristic.  
+**Level 1**: Increase Persuade. Once per day, you can make a request from an NPC who is not openly hostile to you, rolling a RES/Persuade skill check at a difficulty of the NPC’s Morale score. If you succeed, they will comply with the request, provided it is not harmful or extremely uncharacteristic.  
 **Level 2**: Those who follow you are fired with confidence. Any NPC being directly led by you gains a Morale and hit roll bonus equal to your Persuade skill and a +1 bonus on all skill checks. Your followers will not act against your interests unless under extreme pressure.  
 ### Chef
 **Level 1**: After foraging for ingredients, you may craft a tasty meal for the party. Eating the meal gives DR 1 against Phys. for a scene.  
@@ -33,7 +33,7 @@ they can do for you.
 **Level 1**: Increase Ranged. Ignore 1 armor with ranged weapons. You may use two-handed ranged weapons in melee range at a -4 penalty and one-handed ones with no penalty.  
 **Level 2**: Reloading takes no time. A 1 no longer counts as a miss.  
 ### Diplomat
-**Level 1:** Gain Talk as a bonus skill. You speak all the languages common to the area and can learn new ones to a workable level in a week, becoming fluent in a month. Reroll 1s on any skill check dice related to negotiation or diplomacy.  
+**Level 1:** Gain Persuade as a bonus skill. You speak all the languages common to the area and can learn new ones to a workable level in a week, becoming fluent in a month. Reroll 1s on any skill check dice related to negotiation or diplomacy.  
 **Level 2:** Once per game session, shift an intelligent NPC’s reaction roll one step closer to friendly if you can talk to them for at least thirty seconds.  
 ### Goonkeeper
 **Level 1**: Increase Persuade. You can acquire goons within 24 hours of arriving in a community, assuming anyone is suitable goon material. These goons will not fight except to save their own lives, but will escort you on adventures and risk great danger to help you. Most goons have no bonuses, 5 HP, and a morale of 8. You can have one goon at a time for every three character levels you have, rounded up. You can release goon with no hard feelings at any plausible time and pick them back up later should you be without a current goon.  

@@ -2,7 +2,7 @@
 **Health**: d6 (Starting 6)  
 **Mana**: 6 + LB + RES
 **Attribute Bonuses**: +1 RES, +1 END  
-**Skill Bonuses**:  Religion, Divine, Talk  
+**Skill Bonuses**: Divine, Occult, Persuade
 **Saving Throws**: Boost to Physical and Mental.
  
 ### Abilities
