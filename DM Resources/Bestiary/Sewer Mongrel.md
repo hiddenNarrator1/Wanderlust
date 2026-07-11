@@ -1,12 +1,12 @@
 ### Stats
 
-| STR | 2   | HP    | 25             | WALK | 10/s |
-| --- | --- | ----- | -------------- | ---- | ---- |
-| AGI | -1  | Armor | 3              | FLY  | -    |
-| END | 2   | Skill | +1             | SWIM | 15/s |
-| INT | -2  | MOR   | 7              | PHYS | +7   |
-| PER | 0   | HD    | 5              | EVAS | 0    |
-| RES | -2  | DR/DV | DV 2 Lightning | MENT | 0    |
+| STR | 2   | HP    | 25                   | WALK | 10/s |
+| --- | --- | ----- | -------------------- | ---- | ---- |
+| AGI | -1  | Armor | 3                    | FLY  | -    |
+| END | 2   | Skill | +1                   | SWIM | 15/s |
+| INT | -2  | MOR   | 7                    | PHYS | +7   |
+| PER | 0   | HD    | 5                    | EVAS | 0    |
+| RES | -2  | DR/DV | DV 2 Lightning, Heat | MENT | 0    |
 
 ### Offense
 
