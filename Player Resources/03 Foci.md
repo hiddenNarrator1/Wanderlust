@@ -8,7 +8,7 @@ Your senses are heightened and you are impossible to take unaware.
 **Level 2**: You always go first in combat, unless an opponent also has this feature. If so, roll to see who goes first.  
 ### Armor Mage
 Some spellcasters learn to work with intricate movements while wearing armor, as to gain the benefits of defense and arcana.  
-**Level 1**: You may cast with Armor up to 2 Bulk without penalty. Armor above 2 Bulk imposes its normal penalty minus 2.
+**Level 1**: You may cast with Armor up to 2 Bulk without penalty. Armor above 2 Bulk imposes its normal penalty minus 2.  
 **Level 2:** You may cast while wearing armor of any bulk without penalty.
 ### Assassin
 **Level 1**: Increase Sneak. One object no larger than a knife can be concealed automatically and drawn instantly on your turn. Doing so for the first time guarantees a hit.  
@@ -65,7 +65,7 @@ tenth. You can’t mobilize them to buy your content more than once per month.
 **Level 2:** After suffering your first melee hit in a round, any further melee attacks from other assailants automatically miss you. If the attacker who hits you has multiple attacks, they may attempt all of them, but other foes around you simply miss.  
 ### Sniper
 **Level 1**: Increase Ranged. When making a skill check for a ranged Execution Attack or
-target shooting, roll 3d6 and drop the lowest die.  
+targeted shot, roll 3d6 and drop the lowest die.  
 **Level 2:** You don’t miss ranged Execution Attacks. A target hit by one takes a -4 penalty on the Physical saving throw to avoid immediate mortal injury. Even if the save is successful, the target takes double the normal damage inflicted by the attack.   
 ### Specialist
 **Level 1**: Gain a non-combat, non-magic skill as a bonus. Roll 3d6 and drop the lowest die for all skill checks in this skill.  
