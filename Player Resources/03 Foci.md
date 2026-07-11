@@ -8,8 +8,8 @@ Your senses are heightened and you are impossible to take unaware.
 **Level 2**: You always go first in combat, unless an opponent also has this feature. If so, roll to see who goes first.  
 ### Armor Mage
 Some spellcasters learn to work with intricate movements while wearing armor, as to gain the benefits of defense and arcana.  
-**Level 1**: You may cast while wearing armor with a Bulk of 1 and while both hands are full, but not bound.  
-**Level 2:** You may cast while wearing armor of any bulk.  
+**Level 1**: You may cast with Armor up to 2 Bulk without penalty. Armor above 2 Bulk imposes its normal penalty minus 2.
+**Level 2:** You may cast while wearing armor of any bulk without penalty.
 ### Assassin
 **Level 1**: Increase Sneak. One object no larger than a knife can be concealed automatically and drawn instantly on your turn. Doing so for the first time guarantees a hit.  
 **Level 2**: You may move up to 2s of movement during an assassination. This movement does not alert anyone as you do it.  
