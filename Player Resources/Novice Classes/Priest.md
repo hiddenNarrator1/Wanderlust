@@ -1,6 +1,6 @@
 ### Stats
 **Health**: d6 (Starting 6)  
-**Mana**: 10 + LB + INT + RES
+**Mana**: 10 + LB + INT + RES, regenerates 1d4 + LB per scene.
 **Attribute Bonuses**: +1 RES, +1 END  
 **Skill Bonuses**: Divine, Occult, Persuade
 **Saving Throws**: Boost to Physical and Mental.
