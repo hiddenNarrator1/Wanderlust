@@ -7,6 +7,8 @@
  
 ### Abilities
 **(Level 1, 3, 5) Miracles**: Your chosen patron gifts you with miracles, and a Power of 1. Each miracle costs no mana, but can be overcharged, casting as if the priest's Power was 1 higher for the listed mana spent. This can be done multiple times per cast. Choose three miracles at level one and add one at levels 3 and 5. *For the time being, assume miracles take 2 seconds to cast.*
+
+Casting miracles requires the user to make a DC 7 RES roll before casting. Each success increases the next DC by 1. Once the user fails, the spell they are trying to cast is lost until the next rest, and the DC resets. You may also sacrifice 1 Strain to add 1 to the RES roll for this.
 - **Bountiful Life (3)**: Heal a target you can see for a number of hit dice equal to Power, plus Divine and LB. 
 - **Chosen Warrior's Weapon (Passive)**: A weapon is bonded to the Priest's soul, never separable from them, with an additional +LB to damage. This weapon may also be put into a pocket dimension and retrieved instantly.
 - **Destructive Blast (3)**: Blast a target with radiant energy at a range of 90 ft. The blast does a number of d8 + Divine + RES in damage equal to half the Priest's Power (min 1d8). The damage type is chosen between the DM and Priest. 
@@ -19,8 +21,7 @@
 - **Sacred Relic (3)**: A relic is made that, when crushed, gives the recipient Aegis equal to Power, reflecting half the damage of the roll back onto the attacker, and notifies the priest. 
 - **Tireless Agent (Passive)**: You never need to sleep, eat, or drink. Ever. Extreme weather has no effect on you. Your overland speed increases by half your Divine in hexes, rounded down. 
 - **To Teach the Flock (3)**: Give a target that can be touched a +Power bonus to a skill the Priest is skilled in. 
-Casting miracles requires the user to make a DC 7 RES roll before casting. Each success increases the next DC by 1. Once the user fails, the spell they are trying to cast is lost until the next rest, and the DC resets. You may also sacrifice 1 Strain to add 1 to the RES roll for this.
-
+  
 **(Level 3) Power Up**: Your Power increases by 1. 
 **(Level 5) Sanctuary Ritual**: After an hour of preparation, you may bless an area up to 15 ft. in diameter to give all allies the benefits of one of the following:
 - **Peacekeeper**: Targets auto-stabilize here and regain their Level in Stamina at the start of their turns.
