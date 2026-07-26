@@ -19,7 +19,8 @@
 - **Sacred Relic (3)**: A relic is made that, when crushed, gives the recipient Aegis equal to Power, reflecting half the damage of the roll back onto the attacker, and notifies the priest. 
 - **Tireless Agent (Passive)**: You never need to sleep, eat, or drink. Ever. Extreme weather has no effect on you. Your overland speed increases by half your Divine in hexes, rounded down. 
 - **To Teach the Flock (3)**: Give a target that can be touched a +Power bonus to a skill the Priest is skilled in. 
-Casting miracles requires the user to make a DC 7 RES roll before casting. Each success increases the next DC by 1. Once the target fails, the spell they are trying to cast is lost until the next rest, and the DC resets. You may also sacrifice 1 Strain to add 1 to the RES roll for this.
+Casting miracles requires the user to make a DC 7 RES roll before casting. Each success increases the next DC by 1. Once the user fails, the spell they are trying to cast is lost until the next rest, and the DC resets. You may also sacrifice 1 Strain to add 1 to the RES roll for this.
+
 **(Level 3) Power Up**: Your Power increases by 1. 
 **(Level 5) Sanctuary Ritual**: After an hour of preparation, you may bless an area up to 15 ft. in diameter to give all allies the benefits of one of the following:
 - **Peacekeeper**: Targets auto-stabilize here and regain their Level in Stamina at the start of their turns.
