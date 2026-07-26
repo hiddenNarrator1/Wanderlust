@@ -6,7 +6,7 @@
 **Saving Throws**: Boost to Physical and Mental.
  
 ### Abilities
-**(Level 1, 3, 5) Miracles**: Your chosen patron gifts you with miracles. Each miracle costs no mana, but can be overcharged, casting as if the priest's Power was 1 higher for the listed mana spent. This can be done multiple times per cast. Choose three miracles at level one and add one at levels 3 and 5.
+**(Level 1, 3, 5) Miracles**: Your chosen patron gifts you with miracles, and a Power of 1. Each miracle costs no mana, but can be overcharged, casting as if the priest's Power was 1 higher for the listed mana spent. This can be done multiple times per cast. Choose three miracles at level one and add one at levels 3 and 5.
 - **Bountiful Life (3)**: Heal a target you can see for a number of hit dice equal to Power, plus Divine and LB. 
 - **Chosen Warrior's Weapon (Passive)**: A weapon is bonded to the Priest's soul, never separable from them, with an additional +LB to damage. This weapon may also be put into a pocket dimension and retrieved instantly.
 - **Destructive Blast (3)**: Blast a target with radiant energy at a range of 90 ft. The blast does a number of d8 + Divine + RES in damage equal to half the Priest's Power (min 1d8). The damage type is chosen between the DM and Priest. The 
