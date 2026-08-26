@@ -17,7 +17,7 @@ Casting miracles requires the user to make a DC 7 RES roll before casting. Each 
 - **Holy Words (2)**: A number of creatures equal to the Priest's Power must make a MENT save against being charmed, enraged, or frightened. The affected targets may repeat the save at the end of their turns.
 - **Law of Equality (3)**: The Priest affects all targets in a radius equal to 15 + 5 feet per Divine, originating on a point they can see. Enemies in this area subtract Power from their bonuses, and allies add power to theirs. This lasts 1d4 rounds.
 - **Protective Embrace (Passive)**: The Priest always has additional Armor equal to their RES.
-- **Revenant Warrior (2)**: When the Priest drops to 0 HP, they go unconscious, but still operate in battle. During this time, they can only use their actions to attack, and can offset the number of rounds before death by their Power + RES.
+- **Revenant Warrior (2)**: When the Priest drops to 0 HP, they go unconscious, but still operate in battle. This lasts for a number of rounds equal to the Priest's LB, and only afterwards does the countdown for death begin. However, attacks taken during the Revenant period still reduce the countdown.
 - **Sacred Relic (3)**: A relic is made that, when crushed, gives the recipient Aegis equal to Power, reflecting half the damage of the roll back onto the attacker, and notifies the priest. 
 - **Tireless Agent (Passive)**: You never need to sleep, eat, or drink. Ever. Extreme weather has no effect on you. Your overland speed increases by half your Divine in hexes, rounded down. 
 - **To Teach the Flock (3)**: Give a target that can be touched a +Power bonus to a skill the Priest is skilled in. 
