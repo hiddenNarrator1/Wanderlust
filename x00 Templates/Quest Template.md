@@ -4,13 +4,19 @@
 ### Step by Step
 
 
-### Initial Info
+### Clues
 
-
+ 
 ### Locations
 
 
 ### People
+
+
+### Encounters
+
+
+### Rewards
 
 
 ### Twist
