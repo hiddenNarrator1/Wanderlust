@@ -28,3 +28,4 @@ Ul, the Scourge of Iron, Machine of War
 The Dancer in the Marble, God of Festivities
 Zulme, the King of Sorrow and Lord of Pain
 Lumira, Baroness of the Eternal Fortress, Lady of Glory
+Onobu, Oligarch of the Grind (Another face is The Usurer)
