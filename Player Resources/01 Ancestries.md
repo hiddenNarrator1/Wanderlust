@@ -44,7 +44,8 @@ These folk resemble sea turtles, with distinct patterns on their shells. Many fa
 (-) DV 2 magic damage against Grit.  
 
 ### Optional: Vampiric Curse
-(+/-) You have to start subsisting off of blood. Once per scene you may down a vial over 3s and increase all Physical Attributes by 1.
-(+) At any point you may morph into a bat.
-(-) You take 2 Grit damage per turn spent in running water and in sunlight unless covered by heavy clothes.
-(-) You must impulsively count everything. You cannot do anything until everything within 30 ft is counted.
+(+/-) You have to start subsisting off of blood. Once per scene you may down a vial over 3s and increase all Physical Attributes by 1.  
+(+) Increase any Attribute by 1.  
+(+) At any point you may morph into a bat.  
+(-) You take 2 Grit damage per turn spent in running water and in sunlight unless covered by heavy clothes.  
+(-) You must impulsively count everything. You cannot do anything else until everything within 30 ft. is counted.  
