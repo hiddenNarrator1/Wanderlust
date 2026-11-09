@@ -37,3 +37,7 @@
 ### Criminal (STR or AGI +1, PER +1)
 - Choose 2 Skills: Connect, Notice, Persuade, Trade, Pilot
 - Given Skills: One Combat, Sneak
+
+### Impersonator (PER +1, RES +1)
+- Choose a Skill: Deduce, Trade, Sneak, Connect
+- Given Skills: Perform, Persuade, Know
