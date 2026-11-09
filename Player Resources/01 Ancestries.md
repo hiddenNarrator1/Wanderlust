@@ -38,7 +38,13 @@ These folk resemble sea turtles, with distinct patterns on their shells. Many fa
 (-) Take 2 extra unblockable damage from fire and pure metals. Metals also force a DC 10 PHYS save or poison you for 1 minute. The save is repeatable per turn.  
 
 ### Sentinel
-(+) You can be healed a number of Grit equal to one Hit Die using mechanic's tools during a long rest.
-(+/-) Effects that affect organic creatures do not affect you (poison, bleeding, healing, etc)
-(+/-) Overclock (3T): For the next 3 turns, gain an additional 3 seconds. After 3 turns, you are stunned and completely immobile.
-(-) DV 2 magic damage against Grit.
+(+) You can be healed a number of Grit equal to one Hit Die using mechanic's tools during a long rest.  
+(+/-) Effects that affect organic creatures do not affect you (poison, bleeding, healing, etc)  
+(+/-) Overclock (3T): For the next 3 turns, gain an additional 3 seconds. After 3 turns, you are stunned and completely immobile.  
+(-) DV 2 magic damage against Grit.  
+
+### Optional: Vampiric Curse
+(+/-) You have to start subsisting off of blood. Once per scene you may down a vial over 3s and increase all Physical Attributes by 1.
+(+) At any point you may morph into a bat.
+(-) You take 2 Grit damage per turn spent in running water and in sunlight unless covered by heavy clothes.
+(-) You must impulsively count everything. You cannot do anything until everything within 30 ft is counted.
