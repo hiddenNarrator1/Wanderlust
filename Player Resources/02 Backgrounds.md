@@ -34,4 +34,6 @@
 ### Peacekeeper (AGI or PER +1, END +1)
 - Choose 2 Skills: Survive, Trade, Pilot, Deduce, Sneak
 - Given Skills: One Combat, Exert
-
+### Criminal (STR or AGI +1, PER +1)
+- Choose 2 Skills: Connect, Notice, Persuade, Trade, Pilot
+- Given Skills: One Combat, Sneak
