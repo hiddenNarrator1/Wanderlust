@@ -41,3 +41,7 @@
 ### Impersonator (PER +1, RES +1)
 - Choose a Skill: Deduce, Trade, Sneak, Connect
 - Given Skills: Perform, Persuade, Know
+
+### Botanist (END +1, INT +1)
+- Choose a Skill: Deduce, Exert, Trade, Pilot
+- Given Skills: Survive, Heal, Know

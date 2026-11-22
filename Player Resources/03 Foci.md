@@ -20,7 +20,7 @@ Some spellcasters learn to work with intricate movements while wearing armor, as
 **Level 1**: Increase Persuade. Once per day, you can make a request from an NPC who is not openly hostile to you, rolling a RES/Persuade skill check at a difficulty of the NPC’s Morale score. If you succeed, they will comply with the request, provided it is not harmful or extremely uncharacteristic.  
 **Level 2**: Those who follow you are fired with confidence. Any NPC being directly led by you gains a Morale and hit roll bonus equal to your Persuade skill and a +1 bonus on all skill checks. Your followers will not act against your interests unless under extreme pressure.  
 ### Chef
-**Level 1**: After foraging for ingredients, you may craft a tasty meal for the party. Eating the meal gives DR 1 against Phys. for a scene.  
+**Level 1**: After foraging for ingredients, you may craft a tasty meal for the party. Eating the meal gives DR LB against Phys. for a scene.  
 **Level 2**: You craft one meal specialized for any occasion. Whoever consumes it will become immune to 1 elemental damage type for 1 scene.  
 ### CQC 
 **Level 1**: Increase 1 combat skill. Ranged attacks with 1 handed weapons can be made at melee without penalty and have +1 Armor against Melee attacks.  
